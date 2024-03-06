@@ -1,5 +1,6 @@
 ![Macbook-Air-127 0 0 1 (1)](https://github.com/DVALENASCIMENTO/hardware_software_educ_web_page/assets/105137007/982dddc0-6be3-4806-997a-612cc4510b33)
 HARDWARE & SOFTWARE EDUCATIONAL WEB PAGE
+https://dvalenascimento.github.io/hardware_software_educ_web_page/
 
 Este é um projeto simples que apresenta conceitos básicos sobre hardware e software, oferecendo uma estrutura de página HTML e estilos CSS para demonstrar esses conceitos de forma visualmente agradável.
 
